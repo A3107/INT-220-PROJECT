@@ -777,7 +777,7 @@ function myFunction() {
 						<br><hr style="width:50%;margin:auto;">
 						
 						<div class="copyright">
-							<p>Copyright © 2017 The King Cater'z ICP No.1004644</p>
+							<p>Copyright © 2021 The King Cater'z ICP No.1004644</p>
 						</div>
 			</div>
 	</footer>
