@@ -39,12 +39,7 @@ CREATE TABLE IF NOT EXISTS `signup` (
 --
 
 INSERT INTO `signup` (`name`, `email`, `psw`, `cont`, `addrs`) VALUES
-('ks saini', 'whatsapplife173@gmail.com', 11111, 99999999, 'D20 kalka Green , Shanti kunj'),
-('ks saini', 'whatsapplife173@gmail.com', 11111, 99999999, 'D20 kalka Green , Shanti kunj'),
-('rahul', 'rahul188@gmail.com', 222222, 2147483647, 'ZIRAKPUR'),
-('ks saini', 'whatsapplife173@gmail.com', 11111, 2147483647, 'D20 kalka Green , Shanti kunj'),
-('mohan', 'mohan123@gmail.com', 11111, 2147483647, 'chandigarh'),
-('harry', 'harry123@gmail.com', 12345, 2147483647, 'chandigarh');
+('abhinav jaiswal', 'abhinavjais2001@gmail.com', 123456, 2147483647, 'lpu');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
